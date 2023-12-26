@@ -1,16 +1,17 @@
-# zoom
+# ZoomClone
+*A new Flutter project.
+A Flutter-based video conferencing application inspired by Zoom, designed to provide a seamless and intuitive virtual meeting experience. This project aims to replicate key features of Zoom while leveraging the flexibility and cross-platform capabilities of Flutter.*
 
-A new Flutter project.
+Technologies Used:
+------------------
 
-## Getting Started
+*Flutter for cross-platform app development.*
 
-This project is a starting point for a Flutter application.
+*Dart as the programming language.*
 
-A few resources to get you started if this is your first Flutter project:
+*Jitsi_meet_fix plugin for video call.*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*Screenshots*
+------------
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
