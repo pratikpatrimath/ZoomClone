@@ -11,6 +11,10 @@ Technologies Used:
 
 *Jitsi_meet_fix plugin for video call.*
 
+*For authentication I used Google Sign In.It will directly sign in*
+
+*Firebase for storing the data*
+
 *Screenshots*
 ------------
 
