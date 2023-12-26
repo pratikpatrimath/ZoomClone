@@ -14,13 +14,8 @@ Technologies Used:
 *Screenshots*
 ------------
 
-<p align="center">
-      <img src="![zoom2](https://github.com/pratikpatrimath/ZoomClone/assets/75774769/27632492-41ad-4891-a986-581e6903728d)" align="left",height="100",width="100">
-      <img src="![zoom1(https://github.com/pratikpatrimath/ZoomClone/assets/75774769/05f56e05-40dc-47e7-a761-226b1ea47100)",height="100",width="100">
-      <img src="![zoom3](https://github.com/pratikpatrimath/ZoomClone/assets/75774769/2d04f2ec-4cb2-415e-82e3-a3b70f1cc18e)" align="right",height="100",width="100">
-</p>
-<!-- <img src="![zoom2](https://github.com/pratikpatrimath/ZoomClone/assets/75774769/27632492-41ad-4891-a986-581e6903728d)" width="425"/> 
-<img src="![zoom1(https://github.com/pratikpatrimath/ZoomClone/assets/75774769/05f56e05-40dc-47e7-a761-226b1ea47100)" width="425"/>
+![zoom2](https://github.com/pratikpatrimath/ZoomClone/assets/75774769/27632492-41ad-4891-a986-581e6903728d)
+![zoom1(https://github.com/pratikpatrimath/ZoomClone/assets/75774769/05f56e05-40dc-47e7-a761-226b1ea47100)"
 ![zoom3](https://github.com/pratikpatrimath/ZoomClone/assets/75774769/2d04f2ec-4cb2-415e-82e3-a3b70f1cc18e)
- -->
+
 
